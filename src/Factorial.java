@@ -11,7 +11,7 @@ public class Factorial {
 	}
 		public static void main(String[] args) {
 		
-		System.out.println("Dame un número:");
+		System.out.println("Dame un número:");asdas
 		long num = Console.readInt();
 		Factorial.hacerFactorial(num);
 	}
